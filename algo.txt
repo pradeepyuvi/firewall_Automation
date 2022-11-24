@@ -1,0 +1,5 @@
+read one file ipaddress colum data
+and again read mapping file colums data 
+read the first column data and ittiration every ipaddrerss to match with second file colums data
+after matching data will concatinate to lists
+then finaly output will be printed into specific sheet and column

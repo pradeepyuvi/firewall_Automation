@@ -1,0 +1,12 @@
+﻿Environment,Primarly_related_CI,Hostname,ipaddress,dup
+prod,FSN,SDC1,192.168.0.7,2
+prod,CSC,SDC45,192.168.0.11,2
+prod,ABC,SDC3,192.168.0.8,2
+prod,HSHS,SDC4,192.168.0.9,2
+qv,KSHS,SDC5,192.168.0.10,2
+dev,NCHC,SDC6,192.168.0.0,2
+dev,KHD,SDC7,192.168.0.1,2
+prod,NCHD,SDC8,192.168.0.2,2
+prod,JSD,SDC9,192.168.0.3,2
+prod,DHD,SDC10,192.168.0.4,2
+prod,NVHD,SDC11,192.168.0.5,2
